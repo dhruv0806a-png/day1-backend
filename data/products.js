@@ -1,0 +1,73 @@
+const products = [
+  {
+    id: 1,
+    name: "Headphones",
+    price: 5000,
+    category: "Electronics",
+    stock: true,
+  },
+  {
+    id: 2,
+    name: "Tomato",
+    price: 20,
+    category: "Vegetable",
+    stock: false,
+  },
+  {
+    id: 3,
+    name: "Laptop",
+    price: 65000,
+    category: "Electronics",
+    stock: true,
+  },
+  {
+    id: 4,
+    name: "Running Shoes",
+    price: 3500,
+    category: "Footwear",
+    stock: true,
+  },
+  {
+    id: 5,
+    name: "Coffee Mug",
+    price: 250,
+    category: "Kitchenware",
+    stock: true,
+  },
+  {
+    id: 6,
+    name: "Wireless Mouse",
+    price: 1200,
+    category: "Electronics",
+    stock: false,
+  },
+  {
+    id: 7,
+    name: "Backpack",
+    price: 1800,
+    category: "Accessories",
+    stock: true,
+  },
+  {
+    id: 8,
+    name: "Apple",
+    price: 120,
+    category: "Fruit",
+    stock: true,
+  },
+  {
+    id: 9,
+    name: "Desk Lamp",
+    price: 850,
+    category: "Home Decor",
+    stock: false,
+  },
+  {
+    id: 10,
+    name: "Gaming Chair",
+    price: 15000,
+    category: "Furniture",
+    stock: true,
+  },
+];
+module.exports = products;
